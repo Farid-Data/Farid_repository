@@ -1,25 +1,35 @@
-👋 Hi, I’m Farid
 
-I’m a Data Science enthusiast with a background in Computer Engineering and a strong passion for AI, machine learning, and data-driven problem solving. I enjoy turning raw data into meaningful insights and building practical projects that connect theory with real-world applications.
+## Hey, I’m Farid 👋
 
-🌱 What I’m focusing on
+I’m passionate about **data science, machine learning, and AI** — basically anything that involves turning raw data into something meaningful. For me, it’s not just about writing code, it’s about **finding patterns, solving problems, and telling stories with data**.
 
-Mastering Python, pandas, and data visualization
+### 🔭 What I’m working on right now
 
-Deep-diving into machine learning and SQL
+* Building hands-on projects with **Python, pandas, and SQL**
+* Getting deeper into **machine learning** techniques and experimenting with models
+* Learning to design **clean, insightful dashboards** that actually make sense to people who aren’t data scientists
+* Sharpening my knowledge of **statistics, visualization, and modeling** to bring everything together
 
-Building end-to-end data science projects to sharpen my skills
+### 🎯 What drives me
 
-🚀 My passions
+I believe **data is more than numbers** — it’s a way to understand people, systems, and decisions. What excites me most is how data science can impact real-life problems, from predicting outcomes to optimizing processes.
 
-Exploring how AI can transform industries
+Teaching English for two years gave me a skill that really helps in tech: the ability to **break down complex ideas into simple explanations**. I try to bring that same mindset when I work on projects or collaborate with others.
 
-Creating clean, insightful dashboards that tell a story with data
+### 🌱 Always learning
 
-Teaching and sharing knowledge — I’ve also been an English teacher for 2 years, which taught me the value of clarity and communication
+I’m big on **self-growth and self-awareness**. For me, coding and data science aren’t just technical skills — they’re also tools for creativity and problem-solving. Every project I build is both practice and a chance to push myself further.
 
-Constant self-growth and self-awareness, both personally and professionally
+### ⚡ A bit more about me
 
-⚡ Fun fact
+* Background in **Computer Engineering**
+* Completed the **IBM Data Science Certificate**
+* Actively preparing to step into the **data science field in the US**
+* Believe that **learning by doing** is the fastest way to grow
+* Outside of coding, I’m constantly exploring ideas, reflecting, and trying to level up as a person
 
-I believe learning is most effective when it’s project-based and hands-on — that’s why I’m always working on something new.
+### 📫 Connect with me
+
+* **Email:** [F.Karami.2002.e@gmail.com](mailto:F.Karami.2002.e@gmail.com)
+* **LinkedIn:** [linkedin.com/in/farid-karami](#)
+* **GitHub:** [github.com/faridkarami](#)
