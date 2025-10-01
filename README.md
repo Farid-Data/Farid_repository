@@ -31,5 +31,5 @@ I’m big on **self-growth and self-awareness**. For me, coding and data science
 ### 📫 Connect with me
 
 * **Email:** [F.Karami.2002.e@gmail.com](mailto:F.Karami.2002.e@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farid-karami](#)
-* **GitHub:** [github.com/faridkarami](#)
+* **LinkedIn:** [www.linkedin.com/in/thefaridkarami](#)
+* **GitHub:** [github.com/Farid-Data](#)
